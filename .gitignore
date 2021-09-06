@@ -1,0 +1,8 @@
+*.jpg
+
+#Directory ignore
+DjgIntangram/apps/users/__pycache__
+DjgIntangram/apps/users/migrations
+DjgIntangram/apps/posts/__pycache__
+DjgIntangram/apps/posts/migrations
+DjgIntangram/DjgIntangram/__pycache__
